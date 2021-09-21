@@ -7,7 +7,7 @@ include_in_header: false
 **Last updated**  
 Sept 13 2021
 
-![](./assets/privacy-handshake-icon.png)
+![](assets/privacy-handshake-icon.png)
 <img src="https://github.com/sonasapps/Yaktraks/blob/a4ab60c138ec48ba356d5afaa1595729741df54b/assets/privacy-handshake-icon.png" >
 
 # Privacy Policy
